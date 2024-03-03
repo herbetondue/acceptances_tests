@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1">
+    <archive path="/home/eloue/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.1">
+    <archive path="/home/eloue/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.7.1/junit-jupiter-api-5.7.1.jar" />
+  </library>
+  <library name="Maven: io.cucumber:cucumber-java:6.10.3">
+    <archive path="/home/eloue/.m2/repository/io/cucumber/cucumber-java/6.10.3/cucumber-java-6.10.3.jar" />
+  </library>
+  <library name="Maven: io.cucumber:cucumber-gherkin-messages:6.10.3">
+    <archive path="/home/eloue/.m2/repository/io/cucumber/cucumber-gherkin-messages/6.10.3/cucumber-gherkin-messages-6.10.3.jar" />
+  </library>
+  <library name="Maven: io.cucumber:messages:15.0.0">
+    <archive path="/home/eloue/.m2/repository/io/cucumber/messages/15.0.0/messages-15.0.0.jar" />
+  </library>
+  <library name="Maven: io.cucumber:cucumber-core:6.10.3">
+    <archive path="/home/eloue/.m2/repository/io/cucumber/cucumber-core/6.10.3/cucumber-core-6.10.3.jar" />
+  </library>
+  <library name="Maven: io.cucumber:cucumber-gherkin:6.10.3">
+    <archive path="/home/eloue/.m2/repository/io/cucumber/cucumber-gherkin/6.10.3/cucumber-gherkin-6.10.3.jar" />
+  </library>
+  <library name="Maven: io.cucumber:datatable:3.5.0">
+    <archive path="/home/eloue/.m2/repository/io/cucumber/datatable/3.5.0/datatable-3.5.0.jar" />
+  </library>
+  <library name="Maven: io.cucumber:cucumber-plugin:6.10.3">
+    <archive path="/home/eloue/.m2/repository/io/cucumber/cucumber-plugin/6.10.3/cucumber-plugin-6.10.3.jar" />
+  </library>
+  <library name="Maven: io.cucumber:tag-expressions:3.0.1">
+    <archive path="/home/eloue/.m2/repository/io/cucumber/tag-expressions/3.0.1/tag-expressions-3.0.1.jar" />
+  </library>
+  <library name="Maven: io.cucumber:cucumber-expressions:10.3.0">
+    <archive path="/home/eloue/.m2/repository/io/cucumber/cucumber-expressions/10.3.0/cucumber-expressions-10.3.0.jar" />
+  </library>
+  <library name="Maven: io.cucumber:create-meta:4.0.0">
+    <archive path="/home/eloue/.m2/repository/io/cucumber/create-meta/4.0.0/create-meta-4.0.0.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.1">
+    <archive path="/home/eloue/.m2/repository/org/apiguardian/apiguardian-api/1.1.1/apiguardian-api-1.1.1.jar" />
+  </library>
+  <library name="Maven: io.cucumber:docstring:6.10.3">
+    <archive path="/home/eloue/.m2/repository/io/cucumber/docstring/6.10.3/docstring-6.10.3.jar" />
+  </library>
+  <library name="Maven: io.cucumber:html-formatter:13.0.0">
+    <archive path="/home/eloue/.m2/repository/io/cucumber/html-formatter/13.0.0/html-formatter-13.0.0.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="/home/eloue/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.7.1">
+    <archive path="/home/eloue/.m2/repository/org/junit/platform/junit-platform-commons/1.7.1/junit-platform-commons-1.7.1.jar" />
+  </library>
+  <library name="Maven: io.cucumber:cucumber-junit-platform-engine:6.10.3">
+    <archive path="/home/eloue/.m2/repository/io/cucumber/cucumber-junit-platform-engine/6.10.3/cucumber-junit-platform-engine-6.10.3.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.7.1">
+    <archive path="/home/eloue/.m2/repository/org/junit/platform/junit-platform-engine/1.7.1/junit-platform-engine-1.7.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
